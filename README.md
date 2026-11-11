@@ -103,8 +103,8 @@ combines exact filters with semantic ranking.
 ## Team contributions
 | Member | Area |
 |---|---|
-| Person A (name, SRN) | Schema, indexes, views, seed data, embedding pipeline, hybrid + full-text search, search UI, listing page, ER diagram, data dictionary |
-| Person B (name, SRN) | Auth and roles, booking transaction, trigger and stored procedure, saved listings and alerts, recommendations, buyer/agent/admin dashboards, tests |
+| (Nidhi S, PES1UG24AM919) | Schema, indexes, views, seed data, embedding pipeline, hybrid + full-text search, search UI, listing page, ER diagram, data dictionary |
+| (Sanjana Shastry,PES1UG24AM916) | Auth and roles, booking transaction, trigger and stored procedure, saved listings and alerts, recommendations, buyer/agent/admin dashboards, tests |
 
 Individual commits are visible in the Git history.
 
